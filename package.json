@@ -1,0 +1,10 @@
+{
+  "name": "demo-build-ts",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ts-loader": "^3.1.1",
+    "webpack": "^3.8.1"
+  }
+}
